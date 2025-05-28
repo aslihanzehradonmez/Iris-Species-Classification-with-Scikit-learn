@@ -1,0 +1,2 @@
+# Iris Species Classification with Scikit-learn
+This project focuses on the classification of Iris flower species (Setosa, Versicolor, and Virginica) utilizing the Scikit-learn library within a Python environment. It presents a comparative performance analysis of four widely-used supervised machine learning algorithms: Logistic Regression, Decision Trees, Support Vector Machines (SVM), and K-Nearest Neighbors (KNN).
