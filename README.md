@@ -1,7 +1,7 @@
 
 # Iris Species Classification with Scikit-learn: A Comparative Performance Analysis of Logistic Regression, Decision Trees, SVM, and KNN Models 📊
 
-A project focused on classifying Iris flower species using the classic Iris dataset. It implements and compares several machine learning algorithms available in Scikit-learn, including Logistic Regression, Decision Trees, Support Vector Machines (SVM), and K-Nearest Neighbors (KNN).
+This project focuses on classifying Iris flower species using the classic Iris dataset. It implements and compares Scikit-learn's machine learning algorithms: Logistic Regression, Decision Trees, Support Vector Machines (SVM), and K-Nearest Neighbors (KNN).
 
 ## ✨ Key Features
 
