@@ -26,23 +26,20 @@ This project focuses on classifying Iris flower species using the classic Iris d
 1. **Clone the Repository:**
 
    You can clone the repository to your local machine by running the following command in your terminal:
-
    ```bash
-   git clone [https://github.com/aslihanzehradonmez/Iris-Species-Classification-with-Scikit-learn.git](https://github.com/aslihanzehradonmez/Iris-Species-Classification-with-Scikit-learn.git)
+   git clone https://github.com/aslihanzehradonmez/Iris-Species-Classification-with-Scikit-learn.git
    ```
-   Alternatively, you can visit the repository page directly:
-    ➡️ [Project Repository Link](https://github.com/aslihanzehradonmez/Iris-Species-Classification-with-Scikit-learn.git)
-
    After cloning, navigate into the project directory:
-
    ```bash
    cd Iris-Species-Classification-with-Scikit-learn
    ```
+   
 2. **Install dependencies:**
 
    ```bash
    pip install scikit-learn numpy pandas matplotlib seaborn jupyterlab
    ```
+   
 3. **Run the Jupyter Notebook:**
    Launch `jupyter lab` or `jupyter notebook` and open:
    `Iris-Species-Classification-with-Scikit-learn.ipynb`
